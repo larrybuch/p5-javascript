@@ -1,0 +1,59 @@
+.header {
+  text-align: center;
+  font-family: sans-serif;
+  border-bottom: 1px solid #000000;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+ul li {
+  display: inline;
+}
+
+.container {
+  width: 960px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post {
+  margin-bottom: 30px;
+  border-bottom: 2px dashed cyan;
+  padding-bottom: 30px;
+}
+
+.post h2 {
+  font-family: sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.post p {
+  font-size: 18px;
+  line-height: 32px;
+  font-family: georgia;
+  opacity: .6;
+}
+
+
+
+body.geocites {
+  background: url(http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/Stars-fixed.jpg);
+  font-family: cursive;
+  color: yellow;
+}
+
+
+
+
+
+
+
+
